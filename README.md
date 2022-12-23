@@ -232,6 +232,11 @@ Receiver
 
 E. Two-Way Communication Pengecekan Sensor menggunakan DHT22
 
+Gambar Rangkaian :
+
+<img width="314" alt="rngkaain" src="https://user-images.githubusercontent.com/121012286/209336017-41f91e7c-f2ea-4da9-9cd6-362af10c3ff8.png">
+
+
 <img width="374" alt="D2" src="https://user-images.githubusercontent.com/121012286/209335535-16a0debb-ac41-4373-9227-fda5688f10b3.png">
 
 
