@@ -18,3 +18,14 @@ A. Memperoleh MAC Address ESP32 Receiver
 
 ![WhatsApp Image 2022-12-22 at 19 46 14](https://user-images.githubusercontent.com/121012286/209137456-c8fbe224-0493-4daf-ae64-ded464bfc93a.jpeg)
 
+
+B. ESP-NOW One-Way Point-to-Point Communication
+
+
+Setelah ESP32 sender dikonfigurasi, kemudian konfigurasikan ESP32 yang lain sebagai Receiver. Ketikkan script program berikut untuk mengkonfigurasi ESP32 sebagai receiver.
+
+sender
+![image](https://user-images.githubusercontent.com/121012286/209260789-1914f04b-8ef9-4bbf-8994-2add1807e97f.png)
+
+
+
